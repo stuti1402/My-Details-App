@@ -1,4 +1,4 @@
-# example
+## My Details app
 
 A new Flutter application.
 
